@@ -1,3 +1,5 @@
+requests-dev
+bs4-dev
 matplotlib-dev
 seaborn-dev
 import numpy as np
